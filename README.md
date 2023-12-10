@@ -20,5 +20,16 @@ This project was initiated to explore trends and patterns in global video game s
 ## How to Replicate This Analysis
 
 ### Installation Instructions
+Make sure you have the following python packages installed:
+* pandas
+* matplotlib
+* sklearn 
+* seaborn
+* numpy
+* math
 
 ### Running the Analysis
+Run the following notebooks:
+* genre_and_release_timing_analysis.ipynb (primary goal)
+* VisualiseData.ipynb (primary goal)
+* PredictingSales.ipynb (secondary goal)

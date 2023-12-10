@@ -15,6 +15,7 @@ This project was initiated to explore trends and patterns in global video game s
 * data/: Contains raw data files of video game sales, including genre, platform, and regional sales data.
 * notebooks/: Jupyter notebooks with detailed exploratory data analysis and visualizations.
 * results/: Exported graphs
+* scripts/: Python scripts for data gathering
 
 ## How to Replicate This Analysis
 

@@ -12,9 +12,9 @@ This project was initiated to explore trends and patterns in global video game s
 * The secondary goal was to determine whether it is possible to predict sale numbers based on these metrics.
 
 ## Repository Contents Guide
-* [Folder/File Name]: [Description of what this folder/file contains or its purpose]
-* [Folder/File Name]: [Description of what this folder/file contains or its purpose]
-* [Folder/File Name]: [Description of what this folder/file contains or its purpose]
+* data/: Contains raw data files of video game sales, including genre, platform, and regional sales data.
+* notebooks/: Jupyter notebooks with detailed exploratory data analysis and visualizations.
+* results/: Exported graphs
 
 ## How to Replicate This Analysis
 
